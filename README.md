@@ -4,4 +4,4 @@ During my internship at United Network of Professionals (UNP Education), I devel
 
 PROJECT PRESENTATION LINK : https://drive.google.com/file/d/11izsb3bPEWnQgzUHLbwSd3nl0eTIbF60/view?usp=sharing
 
-GOOGLE COLAB LINK : https://drive.google.com/drive/folders/1oGFKLXjzwI6uDQwpCphtEY4lKdF5isbp
+GOOGLE COLAB LINK : https://drive.google.com/file/d/1OfVhFUfACN0Fpazk1z8dG8mF7P8SxL8k/view?usp=sharing
